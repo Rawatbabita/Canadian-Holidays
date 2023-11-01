@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kxR+sWn81DhzQQvcsuOlRUckEJwgjK9E61Ojm8l+vpIZvWoGOrhGJuAF+o3RgOfvD21zw9+r5eCHsXok1M21hQ==",
+  "dgSpecHash": "EXrII270HXygeC+gu7sIS9V1k8eZ3l9Sw1Q5A7+QCANrFGGj7CEmvGTuURjPIEq+gqF6K8Wbba0CuY5Eg9M18A==",
   "success": true,
   "projectFilePath": "/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/Canadian Holidays.csproj",
   "expectedPackageFiles": [
     "/Users/babitarawat/.nuget/packages/argon/0.7.2/argon.0.7.2.nupkg.sha512",
+    "/Users/babitarawat/.nuget/packages/communitytoolkit.maui/6.0.0/communitytoolkit.maui.6.0.0.nupkg.sha512",
+    "/Users/babitarawat/.nuget/packages/communitytoolkit.maui.core/6.0.0/communitytoolkit.maui.core.6.0.0.nupkg.sha512",
     "/Users/babitarawat/.nuget/packages/communitytoolkit.maui.markup/3.3.0/communitytoolkit.maui.markup.3.3.0.nupkg.sha512",
     "/Users/babitarawat/.nuget/packages/communitytoolkit.mvvm/8.2.2/communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "/Users/babitarawat/.nuget/packages/diffengine/12.2.1/diffengine.12.2.1.nupkg.sha512",

@@ -5,7 +5,7 @@ using MvvmHelpers;
 using MvvmHelpers.Commands;
 namespace Canadian_Holidays.ViewModels
 {
-	public class HolidayViewModel
+	 class HolidayViewModel
 	{
 		
 
