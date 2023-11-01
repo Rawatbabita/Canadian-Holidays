@@ -20,6 +20,10 @@
 		<data>
 		fjYW/jXgkM5qkPp/k8nptAwbHgI=
 		</data>
+		<key>Resources/MauiInfo.plist</key>
+		<data>
+		iEtuUGCV6JM3gxS/pO33swhmpp8=
+		</data>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
 		<data>
 		oowkf1sL6T19nanXUObgmuayWqM=
@@ -62,14 +66,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+EFikhznRe871N1pbHcC1kQOppETkSZH2y8bAFv5OD4=
+			vULggW/6nIPunhaVS2ybbriYFDimmg3D/EIaP9V/BLw=
 			</data>
 		</dict>
 		<key>MonoBundle/Canadian Holidays.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VFbSPIiBRTrNtkYVTla6Vbe06XOfkKQGEZ1c+3D9KjM=
+			pGvqklMO70wgHUBhCULlVB6ITfO3B0K0hcqRCAUQTbk=
 			</data>
 		</dict>
 		<key>MonoBundle/CommunityToolkit.Maui.Core.dll</key>
@@ -1533,6 +1537,13 @@
 			<key>hash2</key>
 			<data>
 			T4xtQW8JZxd3k05XvGf7UszJcUXcbxhp5ijZ/9fY9uc=
+			</data>
+		</dict>
+		<key>Resources/MauiInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tx0KXqEC+DvcCGyogQTEQWHcCWJYYqH24NtPwhpQEjo=
 			</data>
 		</dict>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>

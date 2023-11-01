@@ -5,10 +5,11 @@ using Newtonsoft.Json.Converters;
 using Newtonsoft.Json.Linq;
 using Canadian_Holidays.Services;
 using Canadian_Holidays.Model;
+using Canadian_Holidays.Services;
 
 namespace Canadian_Holidays.Services
 {
-  public  class HolidayDataStoreAPI : IHolidayDataStore<Holiday>
+    class HolidayDataStoreAPI : IHolidayDataStore<Holiday>
     {
         private static string API => "https://canada-holidays.ca/api/v1/holidays?year=2023";
 

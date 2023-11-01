@@ -1,3 +1,47 @@
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/mauiimage.inputs
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/mauifont.inputs
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/mauisplash.inputs
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/sp/MauiSplash.storyboard
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/mauisplash.stamp
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@2x.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@3x.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@2x.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@3x.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@2x.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@3x.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@2x.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@3x.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon76x76@2x.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon83.5x83.5@2x.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appiconItunesArtwork.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/Contents.json
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot@2x.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot@3x.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/splash.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/splash@2x.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/splash@3x.png
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/mauiimage.stamp
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/f/MauiInfo.plist
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/mauifont.stamp
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/f/OpenSans-Regular.ttf
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/f/OpenSans-Semibold.ttf
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/actool/_PartialAppManifest.items
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/actool/_BundleResourceWithLogicalName.items
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/actool/_ProcessedImageAssetsPath.items
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/ibtool/_BundleResourceWithLogicalName.items
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/coremlc/_PartialAppManifest.items
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/coremlc/_BundleResourceWithLogicalName.items
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/_ProcessedBundleResourcesPath.items
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/_ProcessedContentPath.items
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/Canadian Holidays.csproj.AssemblyReference.cache
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/Verify.Attributes.cs
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/Canadian Holidays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/Canadian Holidays.AssemblyInfoInputs.cache
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/Canadian Holidays.AssemblyInfo.cs
+/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/Canadian Holidays.csproj.CoreCompileInputs.cache
 /Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/bin/Debug/net7.0-ios/iossimulator-x64/EmptyFiles/archive/empty.7z
 /Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/bin/Debug/net7.0-ios/iossimulator-x64/EmptyFiles/archive/empty.bz2
 /Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/bin/Debug/net7.0-ios/iossimulator-x64/EmptyFiles/archive/empty.gz
@@ -278,50 +322,6 @@
 /Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/bin/Debug/net7.0-ios/iossimulator-x64/libxamarin-dotnet-debug.dylib
 /Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/bin/Debug/net7.0-ios/iossimulator-x64/libxamarin-dotnet.a
 /Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/bin/Debug/net7.0-ios/iossimulator-x64/libxamarin-dotnet.dylib
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/mauiimage.inputs
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/mauifont.inputs
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/mauisplash.inputs
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/sp/MauiSplash.storyboard
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/mauisplash.stamp
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@2x.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@3x.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@2x.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@3x.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@2x.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@3x.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@2x.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@3x.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon76x76@2x.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon83.5x83.5@2x.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appiconItunesArtwork.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/Contents.json
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot@2x.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot@3x.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/splash.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/splash@2x.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/splash@3x.png
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/mauiimage.stamp
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/f/MauiInfo.plist
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/mauifont.stamp
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/f/OpenSans-Regular.ttf
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/f/OpenSans-Semibold.ttf
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/actool/_PartialAppManifest.items
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/actool/_BundleResourceWithLogicalName.items
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/actool/_ProcessedImageAssetsPath.items
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/ibtool/_BundleResourceWithLogicalName.items
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/ibtool/_ProcessedInterfaceDefinitionsPath.items
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/coremlc/_PartialAppManifest.items
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/coremlc/_BundleResourceWithLogicalName.items
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/coremlc/_ProcessedCoreMLModelsPath.items
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/_ProcessedBundleResourcesPath.items
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/_ProcessedContentPath.items
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/Canadian Holidays.csproj.AssemblyReference.cache
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/Verify.Attributes.cs
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/Canadian Holidays.GeneratedMSBuildEditorConfig.editorconfig
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/Canadian Holidays.AssemblyInfoInputs.cache
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/Canadian Holidays.AssemblyInfo.cs
-/Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/Canadian Holidays.csproj.CoreCompileInputs.cache
 /Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/XamlC.stamp
 /Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/Canadian Holidays.csproj.CopyComplete
 /Users/babitarawat/Projects/Canadian Holidays/Canadian Holidays/obj/Debug/net7.0-ios/iossimulator-x64/Canadian Holidays.dll
